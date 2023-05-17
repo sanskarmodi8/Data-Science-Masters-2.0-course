@@ -1,3 +1,3 @@
-# data-science-masters-2.0-course-assignments
+# data-science-masters-2.0-course
 
-This repo contains all the assignments of Data Science Masters 2.0 course offered by PW Skills.
+Here I will upload all the assignments of the course and their solutions solved by me.
